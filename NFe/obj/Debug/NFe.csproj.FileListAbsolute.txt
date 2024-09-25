@@ -1,0 +1,13 @@
+C:\Users\bruno.silva\Documents\NFe\NFe\bin\Debug\NFe.exe.config
+C:\Users\bruno.silva\Documents\NFe\NFe\bin\Debug\NFe.exe
+C:\Users\bruno.silva\Documents\NFe\NFe\bin\Debug\NFe.pdb
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.csproj.AssemblyReference.cache
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.Form1.resources
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.Properties.Resources.resources
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.csproj.GenerateResource.cache
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.csproj.CoreCompileInputs.cache
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.exe
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.pdb
+C:\Users\bruno.silva\Documents\NFe\NFe\bin\Debug\Aspose.Cells.dll
+C:\Users\bruno.silva\Documents\NFe\NFe\bin\Debug\Aspose.Cells.xml
+C:\Users\bruno.silva\Documents\NFe\NFe\obj\Debug\NFe.csproj.CopyComplete
